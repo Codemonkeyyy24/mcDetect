@@ -2,7 +2,11 @@ McDetect constructs a Convolutional Recurrent Neural Network(CRNN) structure to 
 
 Installation
 
-Prerequisites: Guppy Python >= 3.6 tombo tensorflow
+Prerequisites: 
+
+Guppy Python >= 3.6 
+tombo 
+tensorflow
 
 Usage
 
