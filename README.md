@@ -5,7 +5,9 @@ Installation
 Prerequisites: 
 
 Guppy Python >= 3.6 
+
 tombo 
+
 tensorflow
 
 Usage
